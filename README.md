@@ -1,2 +1,3 @@
-# Baregraph
-Original font
+# BareCast
+
+Original monospaced font
