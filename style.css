@@ -3,14 +3,14 @@
 /* --------------- */
 
 @font-face {
-  font-family: 'BareCast';
-  src: url('woff2/BareCast-Regular.woff2') format('woff2');
+  font-family: 'Barecast';
+  src: url('woff2/Barecast-Regular.woff2') format('woff2');
   font-weight: 400;
 }
 
 @font-face {
-  font-family: 'BareCast';
-  src: url('woff2/BareCast-Thin.woff2') format('woff2');
+  font-family: 'Barecast';
+  src: url('woff2/Barecast-Thin.woff2') format('woff2');
   font-weight: 100;
 }
 
