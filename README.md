@@ -1,6 +1,6 @@
 # Barecast
 
-Barecast is a monospaced font designed with inspiration from silk screen printing on PCB. This font supports ASCII characters. Anyone can use it freely.
+Barecast is a monospaced typeface designed with inspiration from silk screen printing on PCB. This font supports ASCII characters. Anyone can use it freely.
 
 ## License
 
